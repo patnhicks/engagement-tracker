@@ -1,12 +1,14 @@
-# Engagement Tracker
+# Engagement Tracker 📊
 
-This Python script tracks social media engagement (likes and comments) across platforms,
-calculates total engagement per platform, identifies the top platform,
-and simulates engagement growth over time.
+This script analyzes engagement across Instagram, Facebook, and Twitter based on likes and comments.  
+It also simulates 3 hours of 5% hourly growth and reports updated metrics.
 
----
+## Features
+- Calculates total engagement
+- Identifies top-performing platform
+- Simulates engagement growth over time
 
-## How to run
-
+## How to Run
 ```bash
 python engagement_tracker.py
+
